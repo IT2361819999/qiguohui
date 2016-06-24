@@ -58,6 +58,9 @@
 //    layer.borderColor=2
     NSLog(@"这里有很多美女");
     NSLog(@"123456");
+    NSLog(@"123456789");
+    NSLog(@"123456789");
+    NSLog(@"123456789");
     NSInteger someLargeNumber =10;
      NSString *string = @"abc";
     for (int i = 0; i < someLargeNumber; i++)
